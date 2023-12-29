@@ -1,5 +1,5 @@
 ## 🚀 About Me
-As a seasoned full-stack web developer, I specialize in delivering innovative solutions for high-quality web applications. My expertise encompasses the full development cycle, with a strong focus on modern JavaScript (`ECMAScript 2020+`) and `TypeScript`.
+As a full-stack web developer, I specialize in delivering innovative solutions for high-quality web applications. My expertise encompasses the full development cycle, with a strong focus on modern JavaScript (`ECMAScript 2020+`) and `TypeScript`.
 ---
 ## 🛠 Skills
  - **Front-end & Back-end Development:** Crafting interactive user interfaces and robust server architectures. Skilled in frameworks and libraries like `React`, `Redux`, and `Express.js` for peak performance.
