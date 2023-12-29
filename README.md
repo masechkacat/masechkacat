@@ -10,9 +10,9 @@ As a full-stack web developer, I specialize in delivering innovative solutions f
  - **Backend Development:** Utilizing `Node.js`, `Next.js`, and various ORMs to build high-performing and scalable back-ends.
  - **Docker & Deployment:** Experienced in configuring and utilizing `Docker` for efficient application deployment and containerization.
  - **Microservices & Security:** Knowledgeable in microservices architecture and application security using `JSON WebTokens`.
-
+---
 I am committed to providing comprehensive web development solutions, from design to deployment, focusing on quality, performance, and client satisfaction.
-
+---
 ## 👩‍💻 Languages
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
