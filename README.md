@@ -1,16 +1,13 @@
-### Hi there 👋
-![Logo](https://previews.dropbox.com/p/thumb/ACK2ZdZKK0RiNgl1TAu3t5tQ-WVxTAgdGL6BcBgAwjYCBoI5AM3lTRtQ_SOZH5qWg78iFNIfNwTVtLEyG4oijIYOiFAfyM95Zo5fmlh3PR0jI99NCDLz73hOqUuz_5W0gUEIudFGEKL-8deCH3b_mjOfsFN1zDq_5R3ca_OrYW8Y4zdqYBrjn63i2P0p_j57YGvV7YC7LT6srhSFOiS5EIgMEgJXQlBKjOcAt_z8RAN9rmvH1AIh1N1Cx-S3ZzTvr8JnpUNzyhejWN11FE0sRuRaai0aM16RM9Tr_mmdSlMmK5KJSZrSTXq499CfdF4Zp6uyhfumNMlgUbCW_mSPZpFw/p.png)
-<!--
-**masechkacat/masechkacat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+As a seasoned full-stack web developer, I specialize in delivering innovative solutions for high-quality web applications. My expertise encompasses the full development cycle, with a strong focus on modern JavaScript (`ECMAScript 2020+`) and `TypeScript`.
+---
+## 🛠 Skills
+ - **Front-end & Back-end Development:** Crafting interactive user interfaces and robust server architectures. Skilled in frameworks and libraries like `React`, `Redux`, and `Express.js` for peak performance.
+ - **Web Architecture Design:** Experienced in structuring client-server web applications, applying design patterns and OOP principles for ease of maintenance and scalability.
+ - **Single Page Application (SPA) Development:** Expert in creating dynamic and responsive SPAs for a seamless user experience.
+ - **REST API Services:** Adept in designing, documenting, and developing RESTful APIs, ensuring efficient client-server communication.
+ - **Automated Testing:** Proficient in front-end testing, using `Vitest` and `React Testing Library` to ensure application reliability and quality.
+ - **Backend Development:** Utilizing `Node.js`, `Next.js`, and various ORMs to build high-performing and scalable back-ends.
+ - **Docker & Deployment:** Experienced in configuring and utilizing `Docker` for efficient application deployment and containerization.
+ - **Microservices & Security:** Knowledgeable in microservices architecture and application security using `JSON WebTokens`.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
