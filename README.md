@@ -4,21 +4,20 @@
 <h2>🛠 Skills</h2>
 <div align="left">
   <img src="./img-aboutme.png" width="380" align="right" />
-  
   <ul>
     <h5>
-    <li><i>Front-end & Back-end Development:</i> Crafting interactive user interfaces and robust server architectures. Skilled in frameworks and libraries like `React`, `Redux`, and `Express.js` for peak performance.</li><br />
+    <li><i>Front-end & Back-end Development:</i> Crafting interactive user interfaces and robust server architectures. Skilled in frameworks and libraries like <code>React</code>, <code>Redux</code>, and <code>Express.js</code> for peak performance.</li><br />
     <li><i>Web Architecture Design:</i> Experienced in structuring client-server web applications, applying design patterns and OOP principles for ease of maintenance and scalability.</li><br />
     <li><i>Single Page Application (SPA) Development:</i> Expert in creating dynamic and responsive SPAs for a seamless user experience.</li><br />
-    <li><i>REST API Services:</i> Adept in designing, documenting, and developing RESTful APIs, ensuring efficient client-server communication.</li><br />
-    <li><i>Automated Testing:</i> Proficient in front-end testing, using `Vitest` and `React Testing Library` to ensure application reliability and quality.</li><br />
-    <li><i>Backend Development:</i> Utilizing `Node.js`, `Next.js`, and various ORMs to build high-performing and scalable back-ends.</li><br />
-    <li><i>Docker & Deployment:</i> Experienced in configuring and utilizing `Docker` for efficient application deployment and containerization.</li><br />
-    <li><i>Microservices & Security:</i> Knowledgeable in microservices architecture and application <br />security using `JSON WebTokens`.</li>
+    <li><i>REST API Services:</i> Adept in designing, documenting, and developing <code>RESTful APIs</code>, ensuring efficient client-server communication.</li><br />
+    <li><i>Automated Testing:</i> Proficient in front-end testing, using <code>Vitest</code> and <code>React Testing Library</code> to ensure application reliability and quality.</li><br />
+    <li><i>Backend Development:</i> Utilizing <code>Node.j</code>, <code>Next.js</code>, and various ORMs to build high-performing and scalable back-ends.</li><br />
+    <li><i>Docker & Deployment:</i> Experienced in configuring and utilizing <code>Docker</code> for efficient application deployment and containerization.</li><br />
+    <li><i>Microservices & Security:</i> Knowledgeable in microservices architecture and application <br />security using <code>JSON WebTokens</code>.</li>
     </h5>
   </ul>
 </div>
-<br clear="both"/>
+
 
 #### I am committed to providing comprehensive web development solutions, from design to deployment, focusing on quality, performance, and client satisfaction.
 ---
