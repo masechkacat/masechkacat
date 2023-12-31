@@ -1,5 +1,4 @@
 ![About Me](./banner-aboutme.jpg)
-
 <h2>🛠 Skills</h2>
 <div align="left">
   <img src="./img-aboutme.png" width="380" align="right" />
