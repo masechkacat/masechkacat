@@ -1,5 +1,4 @@
-## 🚀 About Me
-  #### As a full-stack web developer, I specialize in delivering innovative solutions for high-quality web applications. My expertise encompasses the full development cycle, with a strong focus on modern JavaScript (ECMAScript 2020+) and TypeScript.
+![About Me](./banner-aboutme.jpg)
 
 <h2>🛠 Skills</h2>
 <div align="left">
