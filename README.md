@@ -1,5 +1,5 @@
 ## 🚀 About Me
-  As a full-stack web developer, I specialize in delivering innovative solutions for high-quality web applications. My expertise encompasses the full development cycle, with a strong focus on modern JavaScript (ECMAScript 2020+) and TypeScript.
+  #### As a full-stack web developer, I specialize in delivering innovative solutions for high-quality web applications. My expertise encompasses the full development cycle, with a strong focus on modern JavaScript (ECMAScript 2020+) and TypeScript.
 ---
 ## 🛠 Skills
  - **Front-end & Back-end Development:** Crafting interactive user interfaces and robust server architectures. Skilled in frameworks and libraries like `React`, `Redux`, and `Express.js` for peak performance.
@@ -11,7 +11,9 @@
  - **Docker & Deployment:** Experienced in configuring and utilizing `Docker` for efficient application deployment and containerization.
  - **Microservices & Security:** Knowledgeable in microservices architecture and application security using `JSON WebTokens`.
 ---
-I am committed to providing comprehensive web development solutions, from design to deployment, focusing on quality, performance, and client satisfaction.
+
+
+#### I am committed to providing comprehensive web development solutions, from design to deployment, focusing on quality, performance, and client satisfaction.
 ---
 ## 👩‍💻 Languages
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
