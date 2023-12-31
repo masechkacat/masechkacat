@@ -1,17 +1,24 @@
 ## 🚀 About Me
   #### As a full-stack web developer, I specialize in delivering innovative solutions for high-quality web applications. My expertise encompasses the full development cycle, with a strong focus on modern JavaScript (ECMAScript 2020+) and TypeScript.
----
-## 🛠 Skills
- - **Front-end & Back-end Development:** Crafting interactive user interfaces and robust server architectures. Skilled in frameworks and libraries like `React`, `Redux`, and `Express.js` for peak performance.
- - **Web Architecture Design:** Experienced in structuring client-server web applications, applying design patterns and OOP principles for ease of maintenance and scalability.
- - **Single Page Application (SPA) Development:** Expert in creating dynamic and responsive SPAs for a seamless user experience.
- - **REST API Services:** Adept in designing, documenting, and developing RESTful APIs, ensuring efficient client-server communication.
- - **Automated Testing:** Proficient in front-end testing, using `Vitest` and `React Testing Library` to ensure application reliability and quality.
- - **Backend Development:** Utilizing `Node.js`, `Next.js`, and various ORMs to build high-performing and scalable back-ends.
- - **Docker & Deployment:** Experienced in configuring and utilizing `Docker` for efficient application deployment and containerization.
- - **Microservices & Security:** Knowledgeable in microservices architecture and application security using `JSON WebTokens`.
----
 
+<h2>🛠 Skills</h2>
+<div align="left">
+  <img src="./img-aboutme.png" width="380" align="right" />
+  
+  <ul>
+    <h5>
+    <li><i>Front-end & Back-end Development:</i> Crafting interactive user interfaces and robust server architectures. Skilled in frameworks and libraries like `React`, `Redux`, and `Express.js` for peak performance.</li><br />
+    <li><i>Web Architecture Design:</i> Experienced in structuring client-server web applications, applying design patterns and OOP principles for ease of maintenance and scalability.</li><br />
+    <li><i>Single Page Application (SPA) Development:</i> Expert in creating dynamic and responsive SPAs for a seamless user experience.</li><br />
+    <li><i>REST API Services:</i> Adept in designing, documenting, and developing RESTful APIs, ensuring efficient client-server communication.</li><br />
+    <li><i>Automated Testing:</i> Proficient in front-end testing, using `Vitest` and `React Testing Library` to ensure application reliability and quality.</li><br />
+    <li><i>Backend Development:</i> Utilizing `Node.js`, `Next.js`, and various ORMs to build high-performing and scalable back-ends.</li><br />
+    <li><i>Docker & Deployment:</i> Experienced in configuring and utilizing `Docker` for efficient application deployment and containerization.</li><br />
+    <li><i>Microservices & Security:</i> Knowledgeable in microservices architecture and application <br />security using `JSON WebTokens`.</li>
+    </h5>
+  </ul>
+</div>
+<br clear="both"/>
 
 #### I am committed to providing comprehensive web development solutions, from design to deployment, focusing on quality, performance, and client satisfaction.
 ---
