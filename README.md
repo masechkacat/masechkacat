@@ -11,7 +11,7 @@
     <li><i>Automated Testing:</i> Proficient in front-end testing, using <code>Vitest</code> and <code>React Testing Library</code> to ensure application reliability and quality.</li><br />
     <li><i>Backend Development:</i> Utilizing <code>Node.j</code>, <code>Next.js</code>, and various ORMs to build high-performing and scalable back-ends.</li><br />
     <li><i>Docker & Deployment:</i> Experienced in configuring and utilizing <code>Docker</code> for efficient application deployment and containerization.</li><br />
-    <li><i>Microservices & Security:</i> Knowledgeable in microservices architecture and application <br />security using <code>JSON WebTokens</code>.</li>
+    <li><i>Microservices & Security:</i> Knowledgeable in microservices architecture and application security using <code>JSON WebTokens</code>.</li>
     </h5>
   </ul>
 </div>
