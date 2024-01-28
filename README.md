@@ -19,6 +19,9 @@
 
 #### I am committed to providing comprehensive web development solutions, from design to deployment, focusing on quality, performance, and client satisfaction.
 ---
+
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93341995" width="120" />
+
 ## 👩‍💻 Languages
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
