@@ -54,7 +54,7 @@
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-[Swagger](https://img.shields.io/badge/-Swagger-%298729?style=for-the-badge&logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%298729?style=for-the-badge&logo=swagger&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
